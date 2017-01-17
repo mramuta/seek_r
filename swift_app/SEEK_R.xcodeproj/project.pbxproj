@@ -277,7 +277,7 @@
 				TargetAttributes = {
 					09C073E11E048BC400B9C36B = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = 42C2G5VRTB;
+						DevelopmentTeam = Q2L2S5XSNX;
 						ProvisioningStyle = Automatic;
 					};
 					09C073F51E048BC500B9C36B = {
@@ -643,14 +643,14 @@
 			baseConfigurationReference = 60DB659D4A89A9BA7BE1B10B /* Pods-SEEK_R.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 42C2G5VRTB;
+				DEVELOPMENT_TEAM = Q2L2S5XSNX;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/build/Debug-iphoneos/BigInt",
 				);
 				INFOPLIST_FILE = SEEK_R/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "dbcseekrgroup.SEEK-R.SEEK-R";
+				PRODUCT_BUNDLE_IDENTIFIER = "mramuta.SEEK-R.SEEK-R";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -661,14 +661,14 @@
 			baseConfigurationReference = A8CF6E7B78B0F9A64DB237FD /* Pods-SEEK_R.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 42C2G5VRTB;
+				DEVELOPMENT_TEAM = Q2L2S5XSNX;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/build/Debug-iphoneos/BigInt",
 				);
 				INFOPLIST_FILE = SEEK_R/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "dbcseekrgroup.SEEK-R.SEEK-R";
+				PRODUCT_BUNDLE_IDENTIFIER = "mramuta.SEEK-R.SEEK-R";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
